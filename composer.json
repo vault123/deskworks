@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "symfony/messenger": "^5.0",
+        "ramsey/uuid": "^3.9",
+        "symfony/var-dumper": "^5.0",
+        "knplabs/gaufrette": "^0.8.3",
+        "symfony/workflow": "^5.0",
+        "myclabs/php-enum": "^1.7",
+        "moneyphp/money": "^3.2",
+        "webmozart/assert": "^1.6"
+    }
+}
